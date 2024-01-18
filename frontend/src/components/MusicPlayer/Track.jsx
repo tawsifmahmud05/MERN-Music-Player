@@ -1,5 +1,5 @@
 import React from "react";
-import music from "../assets/music.png";
+import music from "../../assets/music.png";
 
 const Track = ({ isPlaying, isActive, activeSong }) => (
   <div className="flex-1 flex items-center justify-start">
