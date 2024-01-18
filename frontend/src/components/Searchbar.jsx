@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import music from "../assets/music.png";
 
 import { FiSearch } from "react-icons/fi";
 
@@ -18,7 +19,7 @@ const Searchbar = () => {
       <div className="p-5 flex flex-row	justify-start items-center">
         <figure onClick={() => navigate(`/`)}>
           <img
-            src="../../dist/assets/music.fb1d9ffd.png"
+            src={music}
             alt="logo"
             className="grid-cols-1 w-14 h-20 object-contain"
           />
