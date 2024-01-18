@@ -1,8 +1,8 @@
 import axiosInstance from "../configure/apiConfig";
 
 const endPoint = {
-  getAllSongs: "/api/songs",
-  searchedSongs: "/api/songs/search",
+  getAllSongs: "/songs",
+  searchedSongs: "/songs/search",
 };
 
 class SongApi {
