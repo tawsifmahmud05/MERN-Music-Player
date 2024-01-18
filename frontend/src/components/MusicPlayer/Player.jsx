@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/media-has-caption */
 import React, { useEffect, useRef } from "react";
-
+import summersong from "../../assets/summer.mp3";
 const Player = ({
   activeSong,
   isPlaying,
@@ -31,7 +31,7 @@ const Player = ({
 
   return (
     <audio
-      src="../../../dist/assets/summer.mp3"
+      src={summersong}
       ref={ref}
       loop={repeat}
       onEnded={onEnded}
