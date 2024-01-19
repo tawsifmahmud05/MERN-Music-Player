@@ -22,10 +22,12 @@ Live Link : https://music-player-web-app-eta.vercel.app/
 
 ## Technologies Used
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js, mongoose
 - **Database:** MongoDB
 - **Additional Libraries:** Redux, React-router
+
+Vite accelerates JavaScript and React development, providing rapid ES Module support, seamless HMR, and optimized builds. Its zero-config setup, while efficient asset handling and a plugin system streamline the workflow.
 
 ## Getting Started
 
