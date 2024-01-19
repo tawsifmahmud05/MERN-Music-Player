@@ -2,6 +2,8 @@
 
 A small full-stack web application developed using the MERN stack that allows users to play music tracks. The application features a user-friendly React.js frontend interface displaying all available music tracks, and a Node.js backend server to handle search requests and retrieve music data from MongoDB.
 
+Live Link : https://music-player-web-app-eta.vercel.app/
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
