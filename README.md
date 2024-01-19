@@ -27,13 +27,6 @@ Live Link : https://music-player-web-app-eta.vercel.app/
 - **Database:** MongoDB
 - **Additional Libraries:** Redux, React-router
 
-## 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, mongoose
-- **Database:** MongoDB
-- **Additional Libraries:** Redux, React-router
-
-
 ## Getting Started
 
 ### Prerequisites
