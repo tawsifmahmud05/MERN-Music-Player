@@ -10,8 +10,7 @@ Live Link : https://music-player-web-app-eta.vercel.app/
 - [Getting Started](#getting-started)
 - [Frontend](#frontend)
 - [Server](#server)
-- [Additional Considerations](#additional-considerations)
-- [Deliverables](#deliverables)
+
 
 ## Features
 
