@@ -31,7 +31,7 @@ Live Link : https://music-player-web-app-eta.vercel.app/
 
 ### Prerequisites
 
-- Node.js and npm installed.
+**Node.js and npm installed.**
 
 ### Installation
 
