@@ -89,10 +89,15 @@ npm run dev
 ![frontend02](https://github.com/tawsifmahmud05/MERN-Music-Player/assets/85132422/5ef92c2d-9c84-462d-a30b-e44ddefc8ed0)
 
 ## Server
-- API endpoint
+- **API endpoint**
+  
   POST /api/songs
+  
   GET /api/songs
+  
   GET api/songs/:id
+  
   DELETE api/songs/:id
+  
   POST /api/songs/search/
 
