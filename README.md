@@ -7,15 +7,15 @@ A small full-stack web application developed using the MERN stack that allows us
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Frontend](#frontend)
-- [Backend](#backend)
+- [Server](#server)
 - [Additional Considerations](#additional-considerations)
 - [Deliverables](#deliverables)
 
 ## Features
 
-1. **Music Track List:** Display a list of available music tracks.
-2. **Play Functionality:** Users can play a selected track from the results.
-3. **Search Capability:** Implement a search functionality for users to find specific tracks.
+**Music Track List:** Display a list of available music tracks.
+**Play Functionality:** Users can play a selected track from the results.
+**Search Capability:** Implement a search functionality for users to find specific tracks.
 
 ## Technologies Used
 
@@ -28,11 +28,19 @@ A small full-stack web application developed using the MERN stack that allows us
 
 ### Prerequisites
 
-1. Node.js and npm installed.
+Node.js and npm installed.
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/music-player-app.git
+   ```
+
+#### Frontend
+
+Go to frontend file
+   ```
+   cd frontend
+   ```
