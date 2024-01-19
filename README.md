@@ -37,10 +37,35 @@ Clone the repository:
    ```
    git clone https://github.com/your-username/music-player-app.git
    ```
+#### Server Installation
 
-#### Frontend
+Go to server folder
+   ```
+   cd server
+   ```
 
-Go to frontend file
+install dependencies
+```
+npm install
+```
+
+run server
+```
+npm start
+```
+
+#### Frontend Installation
+
+Go to frontend folder
    ```
    cd frontend
    ```
+
+install dependencies
+```
+npm install
+```
+
+buil```
+npm run dev
+```
