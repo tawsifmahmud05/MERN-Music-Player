@@ -24,11 +24,18 @@ A small full-stack web application developed using the MERN stack that allows us
 - **Database:** MongoDB
 - **Additional Libraries:** Redux, React-router
 
+## 
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, mongoose
+- **Database:** MongoDB
+- **Additional Libraries:** Redux, React-router
+
+
 ## Getting Started
 
 ### Prerequisites
 
-Node.js and npm installed.
+- Node.js and npm installed.
 
 ### Installation
 
